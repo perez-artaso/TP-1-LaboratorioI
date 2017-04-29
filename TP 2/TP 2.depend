@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1493429310 source:d:\escritorio\tp. nro 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1493426264 d:\escritorio\tp. nro 2\funciones.h
+
+1493429384 source:d:\escritorio\tp. nro 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1493414109 d:\escritorio\tp. nro 2\utn.h
+
+1493351593 source:d:\escritorio\tp. nro 2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
